@@ -1,3 +1,3 @@
-# ScriptGenerator
+# DiscordBot Generator
 
 ### WIP Project
